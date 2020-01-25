@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nodo", "Nodo\Nodo.csproj", "{CA73E358-5E1F-4EFE-9567-6742D163E1EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA73E358-5E1F-4EFE-9567-6742D163E1EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA73E358-5E1F-4EFE-9567-6742D163E1EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA73E358-5E1F-4EFE-9567-6742D163E1EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA73E358-5E1F-4EFE-9567-6742D163E1EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F60B3153-CA0E-409E-950E-D7A0EB8D35D3}
+	EndGlobalSection
+EndGlobal
